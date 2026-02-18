@@ -1,12 +1,12 @@
 {
-    "version": "1.4.13",
+    "version": "1.4.17",
     "description": "Professional relationship management for the people who matter most to your career",
     "homepage": "https://people-work.io",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hedge-ops/people-work-releases/releases/download/v1.4.13/people-work-1.4.13-windows-x86_64.zip",
-            "hash": "b429b37e5e69d6feb1713f9d84ccfbb88988d940af5f4213ad8a737d7ef6982d"
+            "url": "https://github.com/hedge-ops/people-work-releases/releases/download/v1.4.17/people-work-1.4.17-windows-x86_64.zip",
+            "hash": "57ddcdc664d7cb6d0af7e1efe15962055e42471982f43e0ecc22f707aa8ac185"
         }
     },
     "bin": "people.exe",
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/hedge-ops/people-work-releases/releases/download/v$version/people-work-$version-windows-x86_64.zip"
+                "url": "https://github.com/hedge-ops/people-work-releases/releases/download/v1.4.17/people-work-1.4.17-windows-x86_64.zip"
             }
         }
     }
